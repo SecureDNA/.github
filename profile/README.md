@@ -11,7 +11,7 @@ SecureDNA is a free, non-profit screening platform designed to safeguard DNA syn
   - As an image containing both `synthclient` and the tools required to request a certificate and generate authorization tokens: `docker pull ghcr.io/securedna/synthclient-tools`
 - Source for the client and servers is available in our [monorepo](https://github.com/SecureDNA/SecureDNA).
   - You can compile this source and run test servers using test databases and your own test certificates.  To screen with a real database, see [below](#performing-screening).
-  - [quickdna](https://github.com/SecureDNA/SecureDNA) is a general-purpose DNA manipulation tool but does not have to be separately downloaded to build or run the servers or client.
+  - [quickdna](https://github.com/SecureDNA/quickdna) is a general-purpose DNA manipulation tool but does not have to be separately downloaded to build or run the servers or client.
 
 ## Performing screening
 
