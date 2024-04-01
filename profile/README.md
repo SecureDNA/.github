@@ -17,4 +17,4 @@ SecureDNA is a free, non-profit screening platform designed to safeguard DNA syn
 
 - To use the production servers and hence screen using real databases, you'll need to [obtain certificates](https://securedna.org/start/) by following the [quickstart instructions](https://pages.securedna.org/production/assets/Synthclient-quickstart.pdf).
 - For automated use, consult our [API documention](https://pages.securedna.org/production/assets/Synthclient-API.pdf)
-- Results can also be visualized at [your local `synthclient`](http://localhost:1234/); see the [quickstart](https://pages.securedna.org/production/assets/Synthclient-quickstart.pdf) for more information.
+- Results can also be visualized at http://localhost:80/; see the [quickstart](https://pages.securedna.org/production/assets/Synthclient-quickstart.pdf) for more information.
