@@ -2,11 +2,11 @@
 
 SecureDNA is a free, non-profit DNA synthesis screening platform dedicated to safeguarding the future of biotechnology. Our state-of-the-art, privacy-preserving system is designed to verify the safety of DNA sequences before synthesis—protecting public health, supporting regulatory compliance, and preserving your intellectual property.
 
-- [Why SecureDNA?](https://github.com/SecureDNA/.github/edit/main/profile/README.md#why-securedna)
-- [Why It Matters](https://github.com/SecureDNA/.github/edit/main/profile/README.md#why-it-matters)
-- [Installation](https://github.com/SecureDNA/.github/edit/main/profile/README.md#installation)
-- [Documentation](https://github.com/SecureDNA/.github/edit/main/profile/README.md#documentation)
-- [Questions or Assistance](https://github.com/SecureDNA/.github/edit/main/profile/README.md#questions-or-assistance)
+- [Why SecureDNA?](#why-securedna)
+- [Why It Matters](#why-it-matters)
+- [Installation](#installation)
+- [Documentation](#documentation)
+- [Questions or Assistance](#questions-or-assistance)
 
 ## Why SecureDNA?
 
